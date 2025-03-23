@@ -16,6 +16,6 @@
 
 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/6da67488-76e8-4dc1-8137-213dcb6f2220)
+![Image](https://github.com/user-attachments/assets/d2b7ae58-1d59-4676-accb-ebac671272fe)
 
-![Image](https://github.com/user-attachments/assets/ea8d4479-ffa7-4271-996c-1d2c273d24ae)
+![Image](https://github.com/user-attachments/assets/29c7381c-2994-4a73-a516-e22e2062f37c)
