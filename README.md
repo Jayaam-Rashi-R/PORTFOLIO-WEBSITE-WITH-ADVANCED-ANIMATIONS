@@ -13,3 +13,9 @@
 *MENTOR*: NEELA SANTHOSH KUMAR
 
 *DESCRIPTION*: EDITED IN VISUAL STUDIO CODE AND OUPUT EXECTUED IN CHROME
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6da67488-76e8-4dc1-8137-213dcb6f2220)
+
+![Image](https://github.com/user-attachments/assets/ea8d4479-ffa7-4271-996c-1d2c273d24ae)
